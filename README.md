@@ -1,2 +1,2 @@
 # javascript-drum-kit
-A simple drumkit built in vanilla JS
+A simple drum kit built in vanilla JS
